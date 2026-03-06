@@ -57,39 +57,3 @@ Community Impact: Demonstrating a pattern of violation of community standards, i
 
 Consequence: A permanent ban from any sort of public interaction within the community.
 
-Attribution
-This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.
-
-For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
-
-Other formats:
-text/markdown
-text/plain
-text/asciidoc
-Be sure to fill in reporting details and review the enforcement section before posting your code of conduct. You can find the placeholders by searching the text for [NOTE.
-
-Explore More
-Translations
-Resources and Guides
-Featured Adopters
-FAQs
-About OES
-Support the Project
-Contact Us
-info@ethicalsource.dev
-
-Social
-@EthicalSource@fosstodon.org
-
-Media Inquiries
-press@ethicalsource.dev
-
-Organization for Ethical Source logo
-© Copyright 2026 Organization for Ethical Source. In recognition of privacy as a digital human right, this site does not use tracking cookies or 3rd party analytics. Our source code is open and ethically licensed.
-
-Adopt
-Latest Version
-Translations
-Resources
